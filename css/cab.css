@@ -1,0 +1,76 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(235, 235, 235);
+}
+
+.cabec {
+    top: 0;
+    position: relative;
+    width: 100%;
+    height: 7%;
+    background-color: #181818;
+    display: flex;
+    justify-content: center;
+    font-family: 'Georama', sans-serif;
+}
+
+.size-mid {
+    color: yellow;
+    font-weight: 600;
+    font-size: 150%;
+    background-color: transparent;
+    border: none;
+}
+
+.size-max {
+    color: yellow;
+    font-weight: 600;
+    font-size: 200%;
+    background-color: transparent;
+    border: none;
+}
+
+.contrast {
+    font-size: 130%;
+    color: yellow;
+    font-weight: 600;
+    margin-left: 60%;
+    background-color: transparent;
+    border: none;
+}
+
+.head {
+    width: 100%;
+    height: 10%;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.link-head {
+    font-family: 'Georama', sans-serif;
+    border-right: 1px solid black;
+    padding-right: 2%;
+    margin-left: 2%;
+    font-size: 120%;
+    float: left;
+}
+
+.link-head-fim {
+    font-family: 'Georama', sans-serif;
+    padding-right: 2%;
+    margin-left: 2%;
+    font-size: 120%;
+    float: left;
+}
+
+.img-guard {
+    width: 8%;
+    margin-left: 35%;
+}
+
+.img-head {
+    width: 100%;
+}

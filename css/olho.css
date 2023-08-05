@@ -1,0 +1,43 @@
+.guard-eye {
+    margin-top: 8vh;
+    margin-left: 20%;
+    width: 60%;
+    height: 60vh;
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    display: flex;
+    align-items: center;
+}
+
+.eye-itens {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    height: 20vh;
+    margin-left: 5%;
+    border-right: 1px solid black;
+}
+
+.info-eye {
+    font-family: 'Georama', sans-serif;
+    font-weight: 700;
+    font-size: 220%;
+}
+
+.info-eye-p {
+    font-family: 'Georama', sans-serif;
+    font-weight: 400;
+    font-size: 150%;
+}
+
+.link-img-eye {
+    height: 35vh;
+    width: 40%;
+    margin-left: 5%;
+}
+
+.img-eye {
+    width: 100%;
+}
